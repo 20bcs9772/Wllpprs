@@ -1,0 +1,24 @@
+body{
+    background: rgb(179, 177, 177);
+}
+nav{
+    font-family: 'Mate SC', serif;
+    font-size: 3rem;
+    border-bottom: 2px solid #F1F1F1;
+    margin-left: calc(10%/6);
+    width: 30%;
+    font-weight: solid;
+    padding: 20px 0;
+}
+
+img{
+    width: 30%;
+    margin: calc(10%/6);
+}
+img:hover{
+    color: white;
+    border-color:rgb(4, 219, 112);
+    box-shadow: 0 0.5em 0.5em -0.3em black ;
+    transform: translateY(-0.1em);
+    cursor: pointer;
+  }
